@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aurpan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular and .NET Core
+- 🌱 I’m currently working as a .NET developer
 
 
 <!---
