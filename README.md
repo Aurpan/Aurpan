@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aurpan
-- 🌱 I’m currently working as a .NET developer
+- 👋 Hi, I’m Aurpan Dash
+- 🌱 I’m currently working as a .NET developer with 3 years of experience.
 
 
 <!---
