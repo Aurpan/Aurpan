@@ -1,13 +1,13 @@
-# Hello, I'm Aurgha Aurpan Dash 👋
+# Hello, I'm Aurpan Dash 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack .NET Developer with over 3 years of experience in developing robust and scalable web applications. 
+Welcome to my GitHub profile! I'm a passionate backend developer with 4+ years of experience working with .NET. 
 <br> 
-Currently, I'm working as an Assistant Software Engineer at Dynamic Solution Innovators Limited.
+Currently, I'm working as an Associate Software Engineer and Team Lead at Dynamic Solution Innovators Ltd.
 
 ## 🚀 About Me
 
-- 🌐 **Current Role**: Assistant Software Engineer at Dynamic Solution Innovators Limited
-- 🔧 **Technology Stack**: ASP.NET, React, MS SQL Server
+- 🌐 **Current Role**: Associate Software Engineer and Team Lead at Dynamic Solution Innovators Limited
+- 🔧 **Technology Stack**: .NET, .NET Core, React, MS SQL Server
 - 🎥 **YouTube Channel**: https://www.youtube.com/@devalap - Teaching technical concepts
 
 ## 🛠️ Skills
