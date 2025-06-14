@@ -1,21 +1,19 @@
 # Hello, I'm Aurpan Dash 👋
 
-Welcome to my GitHub profile! I'm a passionate backend developer with 4+ years of experience working with .NET. 
-<br> 
-Currently, I'm working as an Associate Software Engineer and Team Lead at Dynamic Solution Innovators Ltd.
+Welcome to my GitHub profile! I'm a passionate backend developer with 4+ years of experience in enterprise web application development using C#, ASP.NET MVC, Web API, and Entity Framework (Code First). Strong knowledge of RESTful API design, SOLID principles, design patterns, and also OAuth for secure authentication. Proficient in database design, CI/CD practices, and frontend integration using React.js. Adept at Agile methodologies, team leadership, and cross-functional collaboration with international teams.
 
 ## 🚀 About Me
 
 - 🌐 **Current Role**: Associate Software Engineer and Team Lead at Dynamic Solution Innovators Limited
-- 🔧 **Technology Stack**: .NET, .NET Core, React, MS SQL Server
-- 🎥 **YouTube Channel**: https://www.youtube.com/@devalap - Teaching technical concepts
+- 🔧 **Technology Stack**: .NET, React, MS SQL Server
+- 🎥 **YouTube Channel**: https://www.youtube.com/@devalap - teaching technical concepts
 
 ## 🛠️ Skills
 
 - **Languages**: C#, JavaScript, SQL
-- **Frameworks**: ASP.NET, React
+- **Frameworks**: .NET, React
 - **Databases**: MS SQL Server
-- **Tools**: Visual Studio, Git, Docker, Jira
+- **Tools**: Visual Studio, Git, Jira
 - **Soft Skills**: Effective collaboration, client communication, mentoring, debate, sports
 
 
